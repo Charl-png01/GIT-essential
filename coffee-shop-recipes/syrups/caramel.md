@@ -1,4 +1,4 @@
-# Cinnamon Dolce Syrup
+# almond Dolce Syrup
 
 ## Description: Add the exciting sweetness of caramel syrup to any coffee at home with this delicious recipe
 
@@ -7,7 +7,7 @@
 - 1 cup sugar
 - 1/4 cup water
 - 1/2 cup of hot water
-- 1 tsp vanilla extract
+- 2 tsp vanilla extract
 
 ## How to Make
 
